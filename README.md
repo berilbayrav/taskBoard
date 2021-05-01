@@ -1,2 +1,2 @@
 # taskBoard
- Yazılım Yapımı Dersi Projesi
+ Yazılım Sınama Dersi Projesi
